@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type="text/css" href="https://github.com/Ryzone/Ryzone.github.io/blob/main/Resume/MyResume.css">
 
 # Ryzone.github.io
 
