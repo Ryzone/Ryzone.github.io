@@ -1,0 +1,87 @@
+body
+{
+    /* 全文 */
+    background-color: aliceblue;
+    color:#0F0F0F;
+    width:210mm;
+    height:297mm;
+    /* margin-top: 0px; */
+    margin: auto;
+}
+blockquote
+{
+   /* 注释块 */
+   margin:0px;
+   text-align:center;
+}
+h1
+{
+    /* 一级标题 */
+    margin:0px;
+    font-family:"华文黑体";
+    font-size:36px;
+}
+h2
+{
+    /* 二级标题 */
+    margin:1px;
+    font-size:22px;
+}
+h3
+{
+    /* 三级标题 */
+    margin: 5px;
+    font-size:15px;
+}
+p
+{
+    /* 段落文本 */
+    margin:5px;
+    font-size:13px;
+}
+hr
+{
+    /* 分割线 */
+    margin: 1px;
+    height: 1px;
+    color:rgb(0, 0, 0);
+}
+img
+{
+    /* 照片容器 */
+    float:right;
+    position:relative;
+    height: 142px;
+    /* top:20px; */
+    right:10px;    
+}
+::marker
+{
+    /* 无序标志 */
+    color:#0d1117;
+}
+em
+{
+    /* 斜体字 */
+    float:right;
+    position:relative;
+    right: 10px;
+    /* position:relative; */
+}
+ul
+{
+    /* 无序标签 */
+    margin: 5px;
+    font-size:13.5px;
+    /* background-color:#F0F0F0; */
+}
+li
+{
+    margin:0px;
+}
+code
+{
+    color: black;
+    font-size:13px;
+    font-family:"宋体";
+}
