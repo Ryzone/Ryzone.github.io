@@ -1,6 +1,3 @@
-<head>
-  <meta http-equiv="refresh" content=1;url="https://github.com/Ryzone/Ryzone.github.io/blob/main/Resume/MyResume.md">
-</head>
 
 
 # Ryzone.github.io
@@ -16,6 +13,7 @@
 ```
 <head>
   <meta http-equiv="refresh" content="1;url=https://github.com/Ryzone/Ryzone.github.io/blob/main/README.md">
+  <meta http-equiv="refresh" content=1;url="https://github.com/Ryzone/Ryzone.github.io/blob/main/Resume/MyResume.md">
 </head>
 
 <body>
