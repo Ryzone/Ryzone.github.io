@@ -1,5 +1,5 @@
 <head>
-  <meta http-equiv="refresh" content="1;url=https://github.com/Ryzone/Ryzone.github.io/blob/main/Resume/MyResume.md">
+  <meta http-equiv="refresh" content=1;url="https://github.com/Ryzone/Ryzone.github.io/blob/main/Resume/MyResume.md">
 </head>
 
 
