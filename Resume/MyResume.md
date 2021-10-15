@@ -1,6 +1,8 @@
-<style>
+<!-- <style>
 @import url("./MyResume.css") 
-</style>
+</style> -->
+
+<link rel="stylesheet" type="text/css" href="./MyResume.css">
 
 ![Ryzon](./Ryzon.jpg)
 
